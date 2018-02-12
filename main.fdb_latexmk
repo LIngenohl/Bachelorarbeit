@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1518446943 "main.bcf" "main.bbl" "main" 1518446949
+["biber main"] 1518449044 "main.bcf" "main.bbl" "main" 1518449050
   "BA Kopie.bib" 1518446160 27353 0026194847893a663760604f9aae0de4 ""
-  "main.bcf" 1518446949 95893 42bda2ffe832fc3b123de0cfb46d9d50 ""
+  "main.bcf" 1518449050 95893 42bda2ffe832fc3b123de0cfb46d9d50 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1518446948 "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" "main.pdf" "main" 1518446950
-  "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" 1518446940 3141 dbb621ba2e27a58140c35a1674815134 ""
+["pdflatex"] 1518449048 "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" "main.pdf" "main" 1518449050
+  "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" 1518449040 3141 dbb621ba2e27a58140c35a1674815134 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -162,13 +162,13 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1518193019 4129591 a3b9bda9b014308a30889b544c1d4287 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "main.aux" 1518446949 3154 b27c370737086b2f1fb911066e5da576 ""
-  "main.bbl" 1518446944 3384 c07614eb21e91813477fb371c7aa53b2 "biber main"
-  "main.run.xml" 1518446949 2343 594b3dab45108f4da62ee00c81e2ef78 ""
-  "main.tex" 1518446940 3141 dbb621ba2e27a58140c35a1674815134 ""
+  "main.aux" 1518449050 3154 b27c370737086b2f1fb911066e5da576 ""
+  "main.bbl" 1518449045 3384 c07614eb21e91813477fb371c7aa53b2 "biber main"
+  "main.run.xml" 1518449050 2343 594b3dab45108f4da62ee00c81e2ef78 ""
+  "main.tex" 1518449040 3141 dbb621ba2e27a58140c35a1674815134 ""
   (generated)
   "main.log"
-  "main.aux"
-  "main.run.xml"
   "main.bcf"
   "main.pdf"
+  "main.run.xml"
+  "main.aux"
