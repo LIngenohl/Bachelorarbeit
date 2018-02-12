@@ -16,5 +16,44 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{Brigida2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0f9911cf79c1da8f2437a6a3b3fbaf2f}{%
+           family={Brigida},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=766393abf7dbcec9c5297beac7c5097b}{%
+           family={Madura},
+           familyi={M\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{47b25e156ae5dab226953d07adb25857}
+      \strng{fullhash}{47b25e156ae5dab226953d07adb25857}
+      \strng{authornamehash}{47b25e156ae5dab226953d07adb25857}
+      \strng{authorfullhash}{47b25e156ae5dab226953d07adb25857}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Atlantic}
+      \field{number}{2}
+      \field{title}{{Journal of Financial and Economic Practice forthcoming . Information Leakages Prior to 13D Filings}}
+      \field{volume}{12}
+      \field{year}{2012}
+      \field{pages}{23\bibrangedash 39}
+      \range{pages}{17}
+      \verb{file}
+      \verb :Users/leopoldingenohl/Library/Mobile Documents/com$\sim$apple$\sim$CloudDocs/Bachelorarbeit/Paper/Information_Leakages_Prior_to_.pdf:pdf
+      \endverb
+      \keyw{information leakage,informed trading,partial acquisition,toeholds}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 
