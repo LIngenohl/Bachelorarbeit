@@ -240,7 +240,6 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
