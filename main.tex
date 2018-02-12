@@ -18,8 +18,10 @@
 	\usepackage{bigstrut}
 	\usepackage{enumitem}
 
+	
+
 	% biblatex
-	\usepackage[style=authoryear-icomp, natbib=true, maxcitenames=2, maxbibnames=11, backend=biber, hyperref=true, pagetracker=page]{biblatex} \usepackage{csquotes}
+	\usepackage[style=authoryear-icomp,natbib=true,maxcitenames=2, maxbibnames=11,backend=biber,pagetracker=page,hyperref=true]{biblatex} \usepackage{csquotes}
 	\renewcommand*{\bibsetup}{%
 		\interlinepenalty=10000\relax % default is 5000
 		\widowpenalty=10000\relax
@@ -29,10 +31,8 @@
 		\biburlsetup}
 	
 	% package hyperref
-	\usepackage[unicode=true,pdfusetitle,
-	bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
-	breaklinks=false,pdfborder={0 0 0.7},backref=false,colorlinks=false]
-	{hyperref}
+	\usepackage{hyperref}
+	\usepackage{bookmark}
 
 	% fixes the page number of the first page of each chapter
 	\fancypagestyle{plain}{
@@ -53,7 +53,7 @@
 	
 	
 	% add bibliography database
-	\addbibresource{BA over2.bib}
+	\addbibresource{BA Kopie.bib}
 	
 	% space between biblio items
 	\setlength\bibitemsep{1.7\itemsep} 
@@ -61,7 +61,7 @@
 	% title without ""
 	\DeclareFieldFormat[inbook]{title}{#1}
 	% non-italic
-	\DeclareFieldFormat[online]{title}{#1} 
+	\DeclareFieldFormat[online]{tlaitle}{#1} 
 	% title unquoted
 	\DeclareFieldFormat[article]{title}{#1} 
 	% no pp. 
@@ -118,7 +118,7 @@
 
 \section{Introduction}
 Much attention has been recently given to Schedule 13D Filings, the beneficial ownership form many investors must file to report their equity holdings \citep{Giglia2018} and identifying them as active investors. By filing the schedule, the investor represents an increased likelihood of the firm becoming a takeover target \citep{Brigida2012}. \citet{Brav2008}The market reflects this possibility with positive and significant average abnormal returns around the filing date(Brav et. al).
-In particular, \citet{Akhigbe2007} have shown that stakes acquired by corporate bidders are more likely to result in a full acquisition of the target. By continuing the argumentation above, this should result in increased abnormal returns.  In fact, \citet{Brigida2012} came to the conclusion that non-financial corporations have a runup  almost 13 percent higher compared to financial corporations. The large effect of of non-financial corporations on the abnormal return motivates the analysis of this paper.
+In particular, \citet{Akhigbe2007} have shown that stakes acquired by corporate bidders are more likely to result in a full acquisition of the target. By continuing the argumentation above, this should result in increased abnormal returns.  In fact, \citet{Brigida2012} came  to the conclusion that non-financial corporations have a runup  almost 13 percent higher compared to financial corporations. The large effect of of non-financial corporations on the abnormal return motivates the analysis of this paper.
 
 
 \section{Objective and Importance of the Paper}
