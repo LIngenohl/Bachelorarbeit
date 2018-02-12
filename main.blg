@@ -1,17 +1,19 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
-[0] Config.pm:357> INFO - Logfile is 'main.blg'
-[56] biber-darwin:303> INFO - === Mon Feb 12, 2018, 17:11:35
-[104] Biber.pm:359> INFO - Reading 'main.bcf'
-[253] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
-[277] Biber.pm:3670> INFO - Processing section 0
-[302] Biber.pm:3840> INFO - Looking for bibtex format file 'BA Kopie.bib' for section 0
-[310] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[332] bibtex.pm:1292> INFO - Found BibTeX data source 'BA Kopie.bib'
-[345] Utils.pm:164> WARN - BibTeX subsystem: /var/folders/wz/60_g9h8j46bd1p2pm426x9t40000gn/T/6fKPdHNok_/BA Kopie.bib_3474.utf8, line 6, warning: 177 characters of junk seen at toplevel
-[391] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
-[391] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[392] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-GB'
-[392] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-GB'
-[399] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'latin9'
-[400] bbl.pm:712> INFO - Output to main.bbl
-[400] Biber.pm:109> INFO - WARNINGS: 1
+[1] Config.pm:357> INFO - Logfile is 'main.blg'
+[68] biber-darwin:303> INFO - === Mon Feb 12, 2018, 18:58:46
+[114] Biber.pm:359> INFO - Reading 'main.bcf'
+[229] Biber.pm:835> INFO - Found 3 citekeys in bib section 0
+[254] Biber.pm:3670> INFO - Processing section 0
+[279] Biber.pm:3840> INFO - Looking for bibtex format file 'BA Kopie.bib' for section 0
+[288] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[307] bibtex.pm:1292> INFO - Found BibTeX data source 'BA Kopie.bib'
+[346] Utils.pm:164> WARN - ISBN '0000950123040' in entry 'Giglia2018' is invalid - run biber with '--validate_datamodel' for details.
+[359] Utils.pm:164> WARN - ISBN '0378-4266' in entry 'Akhigbe2007' is invalid - run biber with '--validate_datamodel' for details.
+[361] Utils.pm:164> WARN - BibTeX subsystem: /var/folders/wz/60_g9h8j46bd1p2pm426x9t40000gn/T/_rBclpa6Nv/BA Kopie.bib_7689.utf8, line 6, warning: 177 characters of junk seen at toplevel
+[385] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[385] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[385] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-GB'
+[385] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-GB'
+[392] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'latin9'
+[395] bbl.pm:712> INFO - Output to main.bbl
+[395] Biber.pm:109> INFO - WARNINGS: 3
