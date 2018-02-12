@@ -1,0 +1,19 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'main.blg'
+[57] biber-darwin:303> INFO - === Mon Feb 12, 2018, 16:41:24
+[109] Biber.pm:359> INFO - Reading 'main.bcf'
+[262] Biber.pm:835> INFO - Found 3 citekeys in bib section 0
+[280] Biber.pm:3670> INFO - Processing section 0
+[313] Biber.pm:3840> INFO - Looking for bibtex format file 'BA Kopie.bib' for section 0
+[323] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[347] bibtex.pm:1292> INFO - Found BibTeX data source 'BA Kopie.bib'
+[394] Utils.pm:164> WARN - ISBN '0000950123040' in entry 'Giglia2018' is invalid - run biber with '--validate_datamodel' for details.
+[406] Utils.pm:164> WARN - BibTeX subsystem: /var/folders/wz/60_g9h8j46bd1p2pm426x9t40000gn/T/UYDLrBJXYY/BA Kopie.bib_2129.utf8, line 6, warning: 177 characters of junk seen at toplevel
+[407] Utils.pm:164> WARN - I didn't find a database entry for '.' (section 0)
+[421] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[421] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[422] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[422] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[426] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[427] bbl.pm:712> INFO - Output to main.bbl
+[427] Biber.pm:109> INFO - WARNINGS: 3
