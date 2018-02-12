@@ -53,6 +53,37 @@
       \endverb
       \keyw{information leakage,informed trading,partial acquisition,toeholds}
     \endentry
+    \entry{Giglia2018}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3b86ee3700a0f84e97145909c536d280}{%
+           family={Giglia},
+           familyi={G\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b86ee3700a0f84e97145909c536d280}
+      \strng{fullhash}{3b86ee3700a0f84e97145909c536d280}
+      \strng{authornamehash}{3b86ee3700a0f84e97145909c536d280}
+      \strng{authorfullhash}{3b86ee3700a0f84e97145909c536d280}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0000950123040}
+      \field{number}{1}
+      \field{title}{{A Little Letter, A Big Difference: An Empirical Inquiry Into Possible Misuse Of Schedule 13G/13D Filings}}
+      \field{volume}{116}
+      \field{year}{2018}
+      \field{pages}{105\bibrangedash 145}
+      \range{pages}{41}
+      \verb{file}
+      \verb :Users/leopoldingenohl/Library/Application Support/Mendeley Desktop/Downloaded/Unknown - 2018 - A Little Letter, A Big Difference An Empirical Inquiry Into Possible Misuse Of Schedule 13G13D Filings.pdf:pdf
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/43681849
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput
