@@ -8,6 +8,13 @@
 \usepackage{csquotes}
 \usepackage{bookmark}
 \usepackage[natbib=true,citestyle=authoryear,bibstyle=authoryear,maxnames=3,backend=biber]{biblatex}
+\renewcommand*{\bibsetup}{%
+  \interlinepenalty=10000\relax % default is 5000
+  \widowpenalty=10000\relax
+  \clubpenalty=10000\relax
+  \raggedbottom
+  \frenchspacing
+  \biburlsetup}
 \addbibresource{BA.bib}
 
 \title{Proposal Bachelor Thesis}
