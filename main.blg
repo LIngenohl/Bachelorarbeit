@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'main.blg'
+[59] biber-darwin:303> INFO - === Tue Feb 13, 2018, 09:57:20
+[129] Biber.pm:359> INFO - Reading 'main.bcf'
+[314] Biber.pm:835> INFO - Found 4 citekeys in bib section 0
+[333] Biber.pm:3670> INFO - Processing section 0
+[373] Biber.pm:3840> INFO - Looking for bibtex format file 'Versuch1.bib' for section 0
+[393] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[424] bibtex.pm:1292> INFO - Found BibTeX data source 'Versuch1.bib'
+[540] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[540] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[541] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-GB'
+[541] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-GB'
+[554] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[557] bbl.pm:712> INFO - Output to main.bbl
