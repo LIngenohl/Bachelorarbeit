@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1518613170 "main.bcf" "main.bbl" "main" 1518621146
+["biber main"] 1518613170 "main.bcf" "main.bbl" "main" 1518621270
   "BA Kopie.bib" 1518604645 43967 d767ece6212f6b41c2936bdbe5e0ff77 ""
-  "main.bcf" 1518621146 96637 fccc185f3427ef864f6d99fce21552fe ""
+  "main.bcf" 1518621269 96637 fccc185f3427ef864f6d99fce21552fe ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1518621144 "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" "main.pdf" "main" 1518621146
-  "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" 1518621144 6753 39e03358aea164b4c30bc37997936b96 ""
+["pdflatex"] 1518621267 "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" "main.pdf" "main" 1518621270
+  "/Users/leopoldingenohl/Documents/GitHub/Bachelorarbeit/main.tex" 1518621267 6757 32509e46af651555d154e1d08bd64a71 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1480098666 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1480098696 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -114,15 +114,15 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1518193019 4129591 a3b9bda9b014308a30889b544c1d4287 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "main.aux" 1518621146 3646 ee58baf29b9e9a0fb17be590271ece42 ""
+  "main.aux" 1518621269 3646 ee58baf29b9e9a0fb17be590271ece42 ""
   "main.bbl" 1518613172 22480 9f78d14b98ce5cdf3df77afe57570660 "biber main"
-  "main.out" 1518621146 160 ccd960b791ae5c1c72c6f8c40131bf91 ""
-  "main.run.xml" 1518621146 2420 f436494cbda4c13d01119de854b00a8e ""
-  "main.tex" 1518621144 6753 39e03358aea164b4c30bc37997936b96 ""
+  "main.out" 1518621269 160 ccd960b791ae5c1c72c6f8c40131bf91 ""
+  "main.run.xml" 1518621269 2420 f436494cbda4c13d01119de854b00a8e ""
+  "main.tex" 1518621267 6757 32509e46af651555d154e1d08bd64a71 ""
   (generated)
-  "main.pdf"
-  "main.bcf"
   "main.aux"
-  "main.out"
-  "main.log"
   "main.run.xml"
+  "main.out"
+  "main.bcf"
+  "main.log"
+  "main.pdf"
