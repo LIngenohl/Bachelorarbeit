@@ -2157,11 +2157,11 @@
     <bcf:citekey order="10">Brigida2012</bcf:citekey>
     <bcf:citekey order="11">Bell2017</bcf:citekey>
     <bcf:citekey order="12">Piotroski2000</bcf:citekey>
-    <bcf:citekey order="13">Brigida2012</bcf:citekey>
-    <bcf:citekey order="14">ang2011</bcf:citekey>
-    <bcf:citekey order="15">Fama1992</bcf:citekey>
-    <bcf:citekey order="16">Kolari2010</bcf:citekey>
-    <bcf:citekey order="17">Fama1992</bcf:citekey>
+    <bcf:citekey order="13">Klein2009</bcf:citekey>
+    <bcf:citekey order="14">Brigida2012</bcf:citekey>
+    <bcf:citekey order="15">ang2011</bcf:citekey>
+    <bcf:citekey order="16">Fama1992</bcf:citekey>
+    <bcf:citekey order="17">Kolari2010</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
